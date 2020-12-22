@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/data/order-2020-12-18-23-18-04.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/data/order-2020-12-18-23-18-32.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/data/order-2020-12-18-23-18-42.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/data/order.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/data/products.csv" charset="GBK" />
+  </component>
+</project>

@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9ff2990e-c246-43a1-8cec-dcbfe318608c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/image/food.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/food_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/goods.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/online-shopping.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/order.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shopping/gui/ListContent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shopping/gui/MainUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shopping/gui/OrderContent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shopping/gui/ShoppingContent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shopping/gui/SidePanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shopping/gui/compoent/leavesButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shopping/gui/util/UiSettings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shopping/model/ExportOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/emptyOrder.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/emptycar.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/淘宝空订单.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/淘宝空购物车.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shopping/gui/LoginGui.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shopping/gui/MenuGui.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shopping/gui/OrderGui.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shopping/gui/ProductListFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shopping/gui/SearchGui.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shopping/gui/SettingWindow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shopping/gui/ShoppingCartFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shopping/model/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shopping/model/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shopping/model/Mall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shopping/model/Mall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shopping/model/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shopping/model/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shopping/model/ShoppingCart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shopping/model/ShoppingCart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/购物车.jar" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1l8UYAx4VKONdcP7JCzR44Gindr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../JavaTest" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Backup\OneDrive\大学资料\学习资料\Java实践\实验二\shopping_cart\shopping\image" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Backup\OneDrive\大学资料\学习资料\Java实践\实验二\shopping_cart\shopping\image" />
+      <recent name="D:\Backup\OneDrive\大学资料\学习资料\Java实践\实验二\shopping_cart\shopping\src\resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="shopping.model.Main" />
+      <module name="shopping" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="shopping.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ff2990e-c246-43a1-8cec-dcbfe318608c" name="Default Changelist" comment="" />
+      <created>1606978259367</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606978259367</updated>
+      <workItem from="1606978260473" duration="4764000" />
+      <workItem from="1607945363327" duration="12756000" />
+      <workItem from="1607997177707" duration="16703000" />
+      <workItem from="1608115725133" duration="292000" />
+      <workItem from="1608116097620" duration="1318000" />
+      <workItem from="1608117540197" duration="8787000" />
+      <workItem from="1608171420838" duration="416000" />
+      <workItem from="1608174280613" duration="970000" />
+      <workItem from="1608184657981" duration="3669000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="141" y="91" width="1086" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608171660381">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="141" y="91" width="1086" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1368.872@0.0.1368.872" timestamp="1608171660381" />
+    <state x="466" y="191" key="FileChooserDialogImpl" timestamp="1608184667193">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="466" y="191" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1608184667193" />
+    <state width="1312" height="224" key="GridCell.Tab.0.bottom" timestamp="1608188685169">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1312" height="224" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1608188685169" />
+    <state width="1312" height="224" key="GridCell.Tab.0.center" timestamp="1608188685169">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1312" height="224" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1608188685169" />
+    <state width="1312" height="224" key="GridCell.Tab.0.left" timestamp="1608188685169">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1312" height="224" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1608188685169" />
+    <state width="1312" height="224" key="GridCell.Tab.0.right" timestamp="1608188685169">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1312" height="224" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1608188685169" />
+    <state width="1312" height="278" key="GridCell.Tab.1.bottom" timestamp="1608188685153">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1312" height="278" key="GridCell.Tab.1.bottom/0.0.1368.872@0.0.1368.872" timestamp="1608188685153" />
+    <state width="1312" height="278" key="GridCell.Tab.1.center" timestamp="1608188685153">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1312" height="278" key="GridCell.Tab.1.center/0.0.1368.872@0.0.1368.872" timestamp="1608188685153" />
+    <state width="1312" height="278" key="GridCell.Tab.1.left" timestamp="1608188685153">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1312" height="278" key="GridCell.Tab.1.left/0.0.1368.872@0.0.1368.872" timestamp="1608188685153" />
+    <state width="1312" height="278" key="GridCell.Tab.1.right" timestamp="1608188685153">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1312" height="278" key="GridCell.Tab.1.right/0.0.1368.872@0.0.1368.872" timestamp="1608188685153" />
+    <state x="166" y="11" key="SettingsEditor" timestamp="1608171673465">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="166" y="11" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1608171673465" />
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="shopping.model.ShoppingCart" memberName="prolist" />
+      </pinned-members>
+    </pin-to-top-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="shoppingCart.prolist.get(6)" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
